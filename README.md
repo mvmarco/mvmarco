@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Here are some info about me:
+
 - 💻 ... Full-Stack Developer with interest in Frontend Development 
 - 🔭 ... I’m currently freelancing and looking for new opportunities
 - 🌱 ... Learning React, TypeScript and boosting my JavaScript skills
