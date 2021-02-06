@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 ... I’m currently freelancing and looking for new opportunities
 - 🌱 ... Learning React, TypeScript and boosting my JavaScript skills
 - 💬 ... English | Danish | Italian | Spanish
-- :fire:... Check my [portfolio](https://mvmarcoportfolio.herokuapp.com/)
+- :fire: ... Check my [portfolio](https://mvmarcoportfolio.herokuapp.com/)
 - 👋 ... [Let's connect](https://www.linkedin.com/in/marco-corapi/)
 - 📧 ... [Let's talk!](mailto:marco.corapi@outlook.it)
 
