@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=mvmarco&color=green)
 
 Here are some info about me:
 
