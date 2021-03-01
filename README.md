@@ -1,5 +1,4 @@
-### Hello 👋
-![](https://komarev.com/ghpvc/?username=mvmarco&color=blue)
+### Hello 👋 || ![](https://komarev.com/ghpvc/?username=mvmarco&color=blue)
 
 Here are some info about me:
 
