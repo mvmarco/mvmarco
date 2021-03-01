@@ -1,7 +1,7 @@
-### Hello 👋 || ![](https://komarev.com/ghpvc/?username=mvmarco&color=blue)
+### Hello 👋
 
 Here are some info about me:
-
+- ![](https://komarev.com/ghpvc/?username=mvmarco&color=blue)
 - 💻 ... Full-Stack Developer with interest in Frontend Development 
 - 🔭 ... I’m currently freelancing and looking for new opportunities
 - 🌱 ... Learning React and boosting my JavaScript skills
