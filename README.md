@@ -10,5 +10,3 @@ Here are some info about me:
 - 📧 ... [Let's talk!](mailto:marco.corapi@outlook.it)
 - ![](https://komarev.com/ghpvc/?username=mvmarco&color=blue)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvmarco&theme=tokyonight)
