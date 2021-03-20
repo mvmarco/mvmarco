@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Here are some info about me:
+Here are some info about me: 
 - 💻 ... Full-Stack Developer with interest in Frontend Development 
 - 🔭 ... I’m currently freelancing and looking for new opportunities
 - 🌱 ... Learning React and boosting my JavaScript skills
