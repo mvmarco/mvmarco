@@ -6,7 +6,7 @@ Here are some info about me:
 - 🌱 ... Working with React, TypeScript and JavaScript
 - 💬 ... English | Danish | Italian | Spanish
 - ✨ ... Check my [portfolio!](https://mvmarcoportfolio.herokuapp.com/)
-- 👋 ... [Let's connect!](https://)](url)
+- 👋 ... [Let's connect!](https://www.linkedin.com/in/marco-corapi/])
 - 📧 ... [Let's talk!](mailto:marco.corapi@outlook.it)
 - ![](https://komarev.com/ghpvc/?username=mvmarco&color=blue)
 
