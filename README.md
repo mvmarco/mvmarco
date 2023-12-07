@@ -2,8 +2,8 @@
 
 Here are some info about me: 
 - 💻 ... Full-Stack Developer with interest in Frontend Development 
-- 🔭 ... I’m currently freelancing and looking for new opportunities
-- 🌱 ... Working with React, TypeScript and JavaScript
+- 🔭 ... I’m currently working at the fastest fintech company in Denmark (using gitlab)
+- 🌱 ... Working with React, TypeScript and JavaScript and more.
 - 💬 ... English | Danish | Italian | Spanish
 - ✨ ... Check my [portfolio!](https://mvmarcoportfolio.herokuapp.com/)
 - 👋 ... [Let's connect!](https://www.linkedin.com/in/marco-corapi/])
